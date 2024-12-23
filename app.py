@@ -1,2 +1,2 @@
 import streamlit as st
-from rdkit import Chem
+from chemtools.utils import is_isomorphic
